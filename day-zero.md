@@ -6,7 +6,6 @@
 * Benefits of cloud (scalability, agility, cost-saving)
 * Types: Public, Private, Hybrid
 * Azure overview & services
-* **Video idea:** Explain cloud basics using diagrams or animations
 
 ####  Day 2: Core Azure Architectural Components
 
@@ -71,6 +70,7 @@
 * Go over tricky questions & reasoning
 * Share final tips for exam day
 * **Bonus:** How to book the exam, retake policy, etc.
+
 
 
 
